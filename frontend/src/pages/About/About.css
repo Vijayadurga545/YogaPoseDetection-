@@ -1,0 +1,30 @@
+.about-container {
+    width: 100vw;
+    height: 100vh;
+    background: linear-gradient(100deg, #a6b5f3, #e57ff3);
+}
+.about-heading {
+    font-size: 54px;
+    text-align: center;
+    padding-top: 10px;
+    color: rgb(12, 16, 244);
+    font-family: 'Raleway', sans-serif;
+}
+.about-main {
+    margin: auto;
+    width: 70%;
+}
+.about-content {
+    color: rgb(41, 35, 35);
+    font-size: 18px;
+}
+.developer-info h4 {
+    color: rgb(63, 112, 245);
+    font-family: 'Raleway', sans-serif;
+    margin-top: 20px;
+    text-decoration: underline;
+}
+.about-content a,
+.developer-info a {
+ color: rgb(43, 7, 248);  
+}
